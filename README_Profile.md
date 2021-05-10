@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @Fz-M
-- 👀 I’m interested in Data Science, Machine Learning, AI and their applications to the world of today.
-- 🌱 I’m currently learning Traditional Data Science methodologies, Machine Learning and Deep learning.
-- 💞️ I’m looking to collaborate on their applications in Business analytics and Logistics, Engineering, Health, Smart cities and more.
-- 📫 You can reach me on linkedIn - https://linkedin.com/in/funsho-agboola-b6bb161a2
+I am a senior backend and DevOps proficient in python, django, flask, using CI/CD tools managing a SCRUM team, I am very knowledgeable about micro-services, software design architecture and best practices. I am also a Data Science, Machine Learning, AI Enthusiast. I have worked on various projects across different industries and continents and I am confident about my competence. 
 
+One of my proudest achievements was using a modified Huffman coding to solve a latency database issue across 2 million rows optimising the memory by 200%. You can reach me on linkedIn - https://linkedin.com/in/funsho-agboola-b6bb161a2
